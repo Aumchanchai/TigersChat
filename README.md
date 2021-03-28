@@ -6,7 +6,7 @@
 
 ## Extension(ส่วนขยาย)
 #### 1. หน้า login จะให้กรอก Email และ Password เพื่อเข้าสู่ระบบ ที่มีข้อมูลไว้ก่อนแล้วในฐานข้อมูล Firebase จะมีปุ่ม Sign In และ Rgister Now
-![image](https://www.i-pic.info/i/YGls23278)
+![image](https://www.img.in.th/images/d4401d152941f8b2bc99a02468c4fec5.jpg)
 
 
 #### 2. หน้า Rgister จะให้กรอก Name, Email และ Password เพื่อส่งข้อมูลไปเก็บยังฐานข้อมูล Firebase และทำการเข้าสู่ระบบอัตโนมัติ 
