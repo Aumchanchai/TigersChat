@@ -10,7 +10,7 @@
 
 
 #### 2. หน้า Rgister จะให้กรอก Name, Email และ Password เพื่อส่งข้อมูลไปเก็บยังฐานข้อมูล Firebase และทำการเข้าสู่ระบบอัตโนมัติ 
-
+![image](https://www.img.in.th/images/83fddb994160581e508b4c9a01a94895.jpg)
 
 
 #### 3. หน้า Chat Room เป็นหน้าแจ้งเตื่อนข้อความของผู้ใช้ หน้านี้จะมีปุ่ม Search และ log out
